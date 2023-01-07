@@ -16,5 +16,6 @@ public class reverseNumber {
             n = n / 10;
         }
         System.out.println("The Reverse of " + originalN + " is " + reverse);
+        sc.close();
     }
 }

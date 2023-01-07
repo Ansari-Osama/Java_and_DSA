@@ -16,5 +16,6 @@ public class aRaiseToB {
             power = power * a;
         }
         System.out.println("Power of " + a + "^" + b + " is " + power);
+        sc.close();
     }
 }

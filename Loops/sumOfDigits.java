@@ -16,5 +16,6 @@ public class sumOfDigits {
             n = n / 10;
         }
         System.out.println("Sum of Digits of " + originalN + " is " + sum);
+        sc.close();
     }
 }
