@@ -13,5 +13,6 @@ public class numberOfDigits {
             counter++;
         }
         System.out.println("There are " + counter + " Digits in a Number.");
+        sc.close();
     }
 }
