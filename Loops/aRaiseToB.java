@@ -1,7 +1,5 @@
 // WAP to find A raise to the power B.
 
-package Loops;
-
 import java.util.Scanner;
 
 public class aRaiseToB {

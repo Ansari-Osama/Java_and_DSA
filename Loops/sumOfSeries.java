@@ -1,8 +1,6 @@
 // WAP to Sum the following Series.
 // e.g. : 1 - 2 + 3 - 4 + 5 ....... n 
 
-package Loops;
-
 import java.util.Scanner;
 
 public class sumOfSeries {

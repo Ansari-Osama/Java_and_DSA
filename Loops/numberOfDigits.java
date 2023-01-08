@@ -1,7 +1,5 @@
 // WAP to Count Number of Digits in a Given Number.
 
-package Loops;
-
 import java.util.Scanner;
 
 public class numberOfDigits {

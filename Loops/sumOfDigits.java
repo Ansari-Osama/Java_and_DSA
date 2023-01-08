@@ -1,7 +1,5 @@
 // WAP to print Sum of Digits of a Number.
 
-package Loops;
-
 import java.util.Scanner;
 
 public class sumOfDigits {

@@ -1,7 +1,5 @@
 // WAP to Reverse a Given Number.
 
-package Loops;
-
 import java.util.Scanner;
 
 public class reverseNumber {

@@ -1,7 +1,5 @@
 // WAP to print First N Factorial Number.
 
-package Loops;
-
 import java.util.Scanner;
 
 public class firstNFactorial {
